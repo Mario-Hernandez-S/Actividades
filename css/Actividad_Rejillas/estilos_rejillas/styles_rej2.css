@@ -1,0 +1,36 @@
+.green{
+    background-color: rgb(54, 204, 49);
+    color: rgb(54, 204, 49);
+    border: 2px solid white;
+}
+.green-c{
+    background-color: rgb(121, 247, 148);
+    color: rgb(121, 247, 148);
+    border: 2px solid white;
+}
+
+.blue-c{
+    background-color: rgb(135, 190, 235);
+    color: rgb(135, 190, 235);
+    border: 2px solid white;
+    padding: 15px;
+}
+.blue{
+    background-color: rgb(68, 71, 253);
+    color: rgb(68, 71, 253);
+    border: 2px solid white;
+    padding: 50px;
+}
+.yellow{
+    background-color: rgb(235, 221, 23);
+    color: rgb(235, 221, 23);
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.melon{
+    background-color: rgb(247, 191, 88);
+    color: rgb(247, 191, 88);
+    border: 2px solid white;
+    padding: 30px;
+}

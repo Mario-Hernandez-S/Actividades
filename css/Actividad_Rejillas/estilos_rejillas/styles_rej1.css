@@ -1,0 +1,36 @@
+.purple{
+    background-color: rgb(94, 73, 209);
+    color: rgb(94, 73, 209);
+    border: 2px solid white;
+
+}
+.green{
+    background-color: green;
+    color: green;
+    border: 2px solid white;
+}
+
+.pink{
+    background-color: rgb(206, 117, 206);
+    color: rgb(206, 117, 206);
+    border: 2px solid white;
+    padding: 15px;
+}
+.blue{
+    background-color: rgb(79, 175, 192);
+    color: rgb(79, 175, 192);
+    border: 2px solid white;
+    padding: 50px;
+}
+.red{
+    background-color:rgb(207, 53, 53);
+    color: rgb(207, 53, 53);
+    border: 2px solid white;
+    padding: 10px;
+}
+.green-aqua{
+    background-color: rgb(117, 226, 135);
+    color: rgb(117, 226, 135);
+    border: 2px solid white;
+    padding: 10px;
+}

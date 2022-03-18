@@ -1,0 +1,39 @@
+.red{
+    background-color: rgb(245, 67, 67);
+    color: rgb(245, 67, 67);
+    border: 2px solid white;
+}
+
+.magenta{
+    background-color: rgb(173, 36, 88);
+    color: rgb(173, 36, 88);
+    border: 2px solid white;
+}
+
+.turquesa{
+    background-color: rgb(49, 196, 183);
+    color: rgb(49, 196, 183);
+    border: 2px solid rgb(140, 0, 255);
+}
+.green{
+    background-color: rgb(63, 224, 77);
+    color: rgb(63, 224, 77);
+    border: 2px solid white;
+}
+.blue{
+    background-color: rgb(83, 85, 224);
+    color: rgb(83, 85, 224);
+    border: 2px solid white;
+    padding: 50px;
+}
+.p-8{
+    padding-bottom: 23rem;
+}
+
+.border-red{
+    border: 2px solid red;
+}
+
+.border-green{
+    border: 2px solid green;
+}
